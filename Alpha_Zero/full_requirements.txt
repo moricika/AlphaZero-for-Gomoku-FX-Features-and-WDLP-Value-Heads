@@ -1,0 +1,118 @@
+absl-py==1.4.0
+aiohttp==3.8.4
+aiosignal==1.3.1
+alembic @ file:///tmp/requirment/libaiflow/alembic-1.8.0-py3-none-any.whl
+async-timeout==4.0.2
+asynctest==0.13.0
+attrs==22.2.0
+backcall==0.2.0
+cachetools==4.2.4
+certifi @ file:///opt/conda/conda-bld/certifi_1655968806487/work/certifi
+charset-normalizer @ file:///tmp/requirment/libaiflow/charset_normalizer-2.0.12-py3-none-any.whl
+click @ file:///tmp/requirment/libaiflow/click-8.1.3-py3-none-any.whl
+cloudpickle @ file:///tmp/requirment/libaiflow/cloudpickle-2.1.0-py3-none-any.whl
+cycler==0.11.0
+databricks-cli @ file:///tmp/requirment/libaiflow/databricks-cli-0.17.0.tar.gz
+decorator==5.1.1
+docker @ file:///tmp/requirment/libaiflow/docker-5.0.3-py2.py3-none-any.whl
+entrypoints==0.4
+Flask @ file:///tmp/requirment/libaiflow/Flask-2.1.2-py3-none-any.whl
+fonttools==4.38.0
+frozenlist==1.3.3
+fsspec==2023.1.0
+gitdb @ file:///tmp/requirment/libaiflow/gitdb-4.0.9-py3-none-any.whl
+GitPython @ file:///tmp/requirment/libaiflow/GitPython-3.1.27-py3-none-any.whl
+google-auth==1.35.0
+google-auth-oauthlib==0.4.6
+greenlet @ file:///tmp/requirment/libaiflow/greenlet-1.1.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+grpcio==1.51.3
+gunicorn @ file:///tmp/requirment/libaiflow/gunicorn-20.1.0-py3-none-any.whl
+gym==0.25.2
+idna @ file:///tmp/requirment/libaiflow/idna-3.3-py3-none-any.whl
+imageio==2.26.0
+importlib-metadata @ file:///tmp/requirment/libaiflow/importlib_metadata-4.11.4-py3-none-any.whl
+importlib-resources @ file:///tmp/requirment/libaiflow/importlib_resources-5.8.0-py3-none-any.whl
+ipykernel==5.4.3
+ipython==7.34.0
+ipython-genutils==0.2.0
+itsdangerous @ file:///tmp/requirment/libaiflow/itsdangerous-2.1.2-py3-none-any.whl
+jedi==0.18.2
+Jinja2 @ file:///tmp/requirment/libaiflow/Jinja2-3.1.2-py3-none-any.whl
+jupyter_client==7.4.9
+jupyter_core==4.12.0
+kiwisolver==1.4.4
+libaiflow @ file:///tmp/requirment/libaiflow/libaiflow-5.4-py3-none-any.whl
+Mako @ file:///tmp/requirment/libaiflow/Mako-1.2.0-py3-none-any.whl
+Markdown==3.4.1
+MarkupSafe @ file:///tmp/requirment/libaiflow/MarkupSafe-2.1.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+matplotlib==3.5.3
+matplotlib-inline==0.1.6
+mlflow @ file:///tmp/requirment/libaiflow/mlflow-1.26.2.dev0-py3-none-any.whl
+multidict==6.0.4
+nest-asyncio==1.5.6
+networkx==2.6.3
+numpy==1.21.6
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
+oauthlib @ file:///tmp/requirment/libaiflow/oauthlib-3.2.0-py3-none-any.whl
+opencv-python==4.2.0.32
+packaging @ file:///tmp/requirment/libaiflow/packaging-21.3-py3-none-any.whl
+pandas @ file:///tmp/requirment/libaiflow/pandas-1.3.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+parso==0.8.3
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==9.4.0
+plotly==5.13.1
+prometheus-client @ file:///tmp/requirment/libaiflow/prometheus_client-0.14.1-py3-none-any.whl
+prometheus-flask-exporter @ file:///tmp/requirment/libaiflow/prometheus_flask_exporter-0.20.2-py3-none-any.whl
+prompt-toolkit==3.0.38
+protobuf==3.20.0
+psycopg2-binary @ file:///tmp/requirment/libaiflow/psycopg2_binary-2.9.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+ptyprocess==0.7.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycryptodome @ file:///tmp/requirment/libaiflow/pycryptodome-3.15.0-cp35-abi3-manylinux2010_x86_64.whl
+pyDeprecate==0.3.2
+Pygments==2.14.0
+PyJWT @ file:///tmp/requirment/libaiflow/PyJWT-2.4.0-py3-none-any.whl
+pyparsing==3.0.9
+python-dateutil==2.8.2
+python-snappy==0.6.1
+pytorch-lightning==1.7.1
+pytz @ file:///tmp/requirment/libaiflow/pytz-2022.1-py2.py3-none-any.whl
+PyWavelets==1.3.0
+PyYAML==6.0
+pyzmq==25.0.0
+querystring-parser @ file:///tmp/requirment/libaiflow/querystring_parser-1.2.4-py2.py3-none-any.whl
+requests @ file:///tmp/requirment/libaiflow/requests-2.28.0-py3-none-any.whl
+requests-oauthlib==1.3.1
+rsa==4.9
+scikit-image==0.19.3
+scipy @ file:///tmp/requirment/libaiflow/scipy-1.7.3-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+sgf==0.5
+six==1.16.0
+smmap @ file:///tmp/requirment/libaiflow/smmap-5.0.0-py3-none-any.whl
+SQLAlchemy @ file:///tmp/requirment/libaiflow/SQLAlchemy-1.4.37-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+sqlparse @ file:///tmp/requirment/libaiflow/sqlparse-0.4.2-py3-none-any.whl
+tabulate @ file:///tmp/requirment/libaiflow/tabulate-0.8.10-py3-none-any.whl
+tenacity==8.2.2
+tensorboard==2.3.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tifffile==2021.11.2
+torch @ http://192.168.0.153:18889/packages/35/e1/f08f68c0b56080d4c22de014640852503839691acc3b0814d0dbc1f0bc7d/torch-1.10.0%2Bcu113-cp37-cp37m-linux_x86_64.whl#sha256=2a90db92579ed875d2aa0ad6af55359e3f0426a523056a7b49b002c3cc6d2ad8
+torchaudio==0.10.0+cu113
+torchmetrics==0.11.3
+torchvision==0.11.1+cu113
+tornado==6.2
+tqdm==4.64.1
+traitlets==5.9.0
+typing_extensions @ file:///tmp/requirment/libaiflow/typing_extensions-4.2.0-py3-none-any.whl
+urllib3 @ file:///tmp/requirment/libaiflow/urllib3-1.26.9-py2.py3-none-any.whl
+wcwidth==0.2.6
+websocket-client @ file:///tmp/requirment/libaiflow/websocket_client-1.3.3-py3-none-any.whl
+Werkzeug @ file:///tmp/requirment/libaiflow/Werkzeug-2.1.2-py3-none-any.whl
+yarl==1.8.2
+zipp @ file:///tmp/requirment/libaiflow/zipp-3.8.0-py3-none-any.whl
